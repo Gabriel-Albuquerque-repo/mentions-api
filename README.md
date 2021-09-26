@@ -1,9 +1,13 @@
-# mentions-api
-Primeiro contato com o gerenciador de pacotes npm, mongoose/mongoDB e outras tecnologias dentro do escopo de uma API REST.
+## Mentions Api
+- Primeiro contato com o gerenciador de pacotes npm, mongoose/mongoDB e outras tecnologias dentro do escopo de uma API REST.
 >status: em estudo. 
 
+### Linguagens e Tecnologias:
+- Javascript;
+- Node;
+- MongoDB.
 
-Observações:
+### Observações:
 - Este arquivo foi primariamente replicado a partir do professor Willian Oliveira do blog:
   - https://woliveiras.com.br/posts/construindo-uma-api-com-node-js-parte-1-criando-e-listando-dados/
 - Posteriormente vem sendo utilizado para "testes de aprendizado" de(o):
@@ -17,12 +21,11 @@ Observações:
   - md5 e bycrpt.
 
 
-Dependênciais externas do ambiente Node:
-  - debug,
-  - dotenv,
-  - express.js
-  - express-validator,
-  - nodemon,
-  - mongoose.
-  
-
+### Dependênciais externas:
+  - Express;
+  - Mongoose
+  - debug;
+  - dotenv;
+  - Express;
+  - express-validator;
+  - nodemon.
